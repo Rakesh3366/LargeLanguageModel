@@ -1,0 +1,60 @@
+Model,Method,Training Samples,Validation Samples,Epochs,Batch Size,Gradient Accumulation,Effective Batch Size,Learning Rate,Trainable Parameters,Total Parameters,Trainable Parameter Percentage,Training Loss,Validation Loss,Perplexity,Training Time (sec),Samples/sec,Steps/sec,GPU Memory Allocated (GB),GPU Memory Reserved (GB),Adapter Size on Disk (MB),Generated Story
+TinyLlama/TinyLlama-1.1B-Chat-v1.0,LoRA,2000,500,1,2,8,16,0.0002,4505600,1104553984,0.4079,1.4507,1.2052,3.3375,408.3,4.905,0.307,2.12,2.49,71.17,"Once upon a time, there was a little rabbit named Bob. He lived in a big house with his mom and dad. One day, Bob saw a tiny animal on the floor. It looked like it had been running around, but then it stopped. It was very sad.
+
+Bob knew he had to help the small animal. So, he picked up the animal and gently carried it over to a chair. The animal felt so safe and loved being with Bob. Bob kept the animal close by him for a while. Then, he took the animal outside to a big grassy field.
+
+The little rabbit was so happy! They walked around together, chasing bugs and eating grass. Bob made sure the little animal was always safe and happy. Soon, the animal became a good friend. 
+
+Together, they enjoyed many years of playing and being friends. Whenever the little rabbit would visit Bob's home, he always made sure to give the animal hugs and kisses. Even when the animal got sick or died, Bob still kept in touch with its memory. Every year, Bob would remember his friend and play with the memories of all the happy times they shared together. 
+
+""And now the rabbit"
+TinyLlama/TinyLlama-1.1B-Chat-v1.0,QLoRA,2000,500,1,2,8,16,0.0002,4505600,620111872,0.7266,1.4729,1.2235,3.3992,598.98,3.341,0.209,1.02,1.63,71.17,"Once upon a time, there was a little rabbit named Bob. He lived in a big house with his mom and dad. One day, Bob saw a tiny puppy from the window. He thought it was so cute!
+
+He asked his mom and dad if he could play with the puppy. His mom said yes, but she warned him not to touch anything near the puppy. She explained that the puppy could be dangerous.
+
+Bob promised his mom he would be careful. But when he went outside, he saw that the puppy was very friendly and playful. He played with it all morning and afternoon. 
+
+When it was time for dinner, Bob came back inside the house. He had lost his enthusiasm for playing with the puppy. His mom told him it was time to go inside and get ready for bed.
+
+Bob promised to be more careful next time. He didn't want to lose any more playtime with his friend. He hugged the puppy goodbye and got ready for bed. 
+
+His mom looked at him with a smile on her face. She knew that Bob loved playing with the puppy even though they were both adults. They hugged each"
+microsoft/phi-2,LoRA,2000,500,1,2,8,16,0.0002,10485760,2790169600,0.3758,1.3222,0.9427,2.5669,963.95,2.076,0.13,5.32,6.17,163.47,"Once upon a time, there was a little rabbit who lived in a burrow. Every day, he would hop around and play with his friends. One day, the rabbit's mom called him over.
+
+""Rabbit,"" she said, ""I have something very important to tell you.""
+
+The rabbit hopped closer to her. She told him that they were going on an adventure! They would travel far away from home to find a special place where they could live forever.
+
+The rabbit was so excited! He couldn't wait to see all the new things on their journey. But first, they needed to pack their bags and get ready for the trip. The bunny helped his mom gather food and other supplies. Finally, they set off on their adventure together.
+
+As they traveled through forests and fields, they met many different animals along the way. Some of them were friendly, while others were not. The rabbit learned how to be brave and strong like his mom.
+
+Finally, after many days of traveling, they arrived at their destination. It was a magical place filled with beautiful flowers and trees. The rabbit and his mom found a cozy spot to build their burrow. From then on, they lived happily ever after in their new home.
+
+The"
+microsoft/phi-2,QLoRA,2000,500,1,2,8,16,0.0002,10485760,1531878400,0.6845,1.3399,0.9576,2.6054,1208.3,1.656,0.103,2.33,3.31,163.47,"Once upon a time, there was a little rabbit named Rosie. She loved to hop and play in the meadow with her friends. One day, while she was hopping, she found something shiny on the ground. It was a belt!
+
+Rosie had never seen a belt before. She asked her friend Bobby if he knew what it was for. Bobby said that belts are used to hold up pants. Rosie thought that sounded funny because rabbits didn't wear pants.
+
+Later that day, Rosie saw an owl flying high in the sky. The owl looked very serious. Rosie wondered why the owl was so serious. She asked the owl, ""Why do you look so serious?""
+
+The owl replied, ""I am serious because I need to catch my dinner. I must be quick and focused."" Rosie understood now why the owl looked serious. She continued to play in the meadow, but now she knew more about belts and how being serious could help you find your dinner.
+
+From that day on, whenever Rosie saw someone wearing a belt or saw an owl looking serious, she smiled and remembered her exciting adventure. She learned that even small things like a belt or a serious bird can teach us important lessons.
+"
+google/gemma-2b,LoRA,2000,500,1,2,8,16,0.0002,19611648,2525784064,0.7765,1.4588,1.181,3.2578,801.77,2.496,0.156,4.8,6.82,320.29,"Once upon a time, there was a little rabbit named Bob. Bob loved to hop around and play in the garden. One day, Bob wanted to eat some carrots that he saw on the ground.
+
+Bob's mom said, ""No, Bob! Carrots are not for eating. They are for feeding the birds and animals. They are for playing with and sharing.""
+
+Bob was sad, but he listened to his mom. He hopped away and never ate any more carrots. He remembered his mom's words and made sure he only ate the carrots when they were meant to be eaten.
+
+From then on, Bob only ever thought of the important things he should do: help others and stay happy. He knew that he had to listen to his mom, even if it meant missing out on a carrot or two. And so, Bob learned to always take care of the world around him.
+
+The End.
+
+Moral of the story: Listen to your parents and keep them safe. Always think of the bigger picture and don't forget to share."
+google/gemma-2b,QLoRA,2000,500,1,2,8,16,0.0002,19611648,1534879744,1.2777,1.4806,1.1966,3.3087,1093.33,1.83,0.114,3.04,6.23,320.29,"Once upon a time, there was a little rabbit named Bob. Bob loved to hop around and play in the garden. One day, Bob wanted to eat some yummy carrots. So, he hopped over to the garden and started munching on the carrots. But then, something weird happened. A bee came out of the bush and started buzzing around Bob's head. Bob was scared, but the bee was not mean. The bee just wanted to pollinate the carrots. Bob thanked the bee for helping him find the carrots, and the bee hopped away.
+
+Bob hopped back to the garden and ate the tasty carrots. He was so happy that the bee had helped him find them. From then on, Bob knew that bees were helpful and wanted to be friends with them. So, he took a few more carrots home and said a big thank you to the bees for making his day. From that day on, Bob and the bees lived happily ever after. The end.
+
+In the end, Bob learned that it is important to be kind and respectful to all creatures, even the ones that can bite and sting. It is also important to say a big thank you when someone helps us. Bob became even more determined to make friends with bees and other helpful creatures. He was always glad to"

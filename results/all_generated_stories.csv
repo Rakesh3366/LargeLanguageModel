@@ -1,0 +1,43 @@
+Model,Method,Story
+TinyLlama/TinyLlama-1.1B-Chat-v1.0,LoRA,"Once upon a time, in a land far, far away, there was a little boy named Bob. He loved to play with his toys and do fun things. One day he found something special - it was a shiny new doll! It had big eyes and a friendly smile on its face.
+
+Bob couldn't wait to show the doll to his mommy and daddy. He wanted them to be happy too, so he decided to take care of it very carefully. 
+
+But then, one day, Bob forgot all about his doll! He lost it when he ran around the house playing. The doll was gone forever, and Bob was sad.
+
+Now, every time Bob sees a shiny new doll, he thinks of how important it is to keep treasures safe. He reminds himself that he should always look after what he has been given. And he hopes that someday his doll will come back home again, just like it did before."
+TinyLlama/TinyLlama-1.1B-Chat-v1.0,QLoRA,"Once upon a time, in a land far, far away, there was a little boy named Bob. He loved to play with his toys and do fun things. One day he found a small box that had a red lid. He thought it might be something special so he opened the lid and inside there were many things. 
+
+Bob saw lots of balls, balloons, and other fun things. He started playing with them and had so much fun. Then he decided to put the box back on its lid, but he forgot! When he tried to put it back on, it wouldn't fit.
+
+But then he remembered an important lesson - if you want to keep something safe, always make sure your lid is tightly shut. So now he kept his lid tightly closed when he played with his toys. And he continued to have lots of fun and play with all his new toys!"
+microsoft/phi-2,LoRA,"Once upon a time, in a land far, far away, there was a little girl named Lily. She loved to play outside and explore the world around her. One day, she saw something very special on top of a big rock. It was a tiny kitten!
+
+Lily climbed up the rock to get closer to the kitten. The kitten meowed at her and Lily knew that it needed help. So, she picked up the kitten and brought it back down to where she lived. Her mommy was so happy when she saw the kitten too. They gave the kitten lots of love and made sure it had everything it needed to be healthy and strong. And from then on, they all played together every day. The end."
+microsoft/phi-2,QLoRA,"Once upon a time, in a land far, far away, there was a little girl named Lily. She loved to play outside and explore the world around her. One day, she saw something very big on top of a hill. It was a ladder! 
+
+Lily wanted to climb up the ladder so she could see what was at the top. But the ladder was too tall for her to reach. So, she decided to ask her friend Jack for help. 
+
+Jack came over and they tried to lift the ladder together. But it was still too heavy for them. Then, Lily had an idea. ""Let's use your dad's truck!"" she said excitedly. 
+
+They went to Jack's house and asked his dad if he could borrow the truck. His dad agreed, but only if they promised to be careful with it. 
+
+Lily and Jack loaded the ladder into the back of the truck and drove all the way to the top of the hill. When they got there, they lifted the ladder up and climbed to the top. 
+
+From the top, they could see the whole world below them. They felt like they were on top of the world! And they both knew that they couldn't have done it without each other's help"
+google/gemma-2b,LoRA,"Once upon a time, in a land far, far away, there was a little girl named Lily. She loved to play with her dolls and dress them up. One day, she saw a beautiful doll that was dressed in a yellow dress and blue shoes. It looked so cute! Lily wanted it for herself, but she didn't have enough money to buy it.
+
+So, she decided to make her own yellow dress and blue shoes out of paper. She took some yellow and blue paper and cut them into different shapes. Then, she used glue to put them together and made a dress and shoes that looked just like the one she had seen.
+
+Lily was so happy with her new dress and shoes. She wore them everywhere she went and showed them off to her friends. Everyone thought they were very pretty and said they wished they could be as creative as Lily.
+
+The moral of the story is that if you want something, you can make it yourself with a little bit of imagination and creativity. So, don't give up on your dreams and keep trying until you succeed!"
+google/gemma-2b,QLoRA,"Once upon a time, in a land far, far away, there was a little girl named Lily. She loved to play with her dolls and dress them up. One day, she had the idea to make a doll house for her dolls. She asked her mom if she could borrow some of her old clothes to use as decorations for the doll house. Her mom said yes and gave her some of her old shirts and dresses.
+
+Lily started putting the clothes together to make a doll house. She took a box and cut it into two pieces. She put the pieces together to make a big box. Then, she took some more clothes and made a roof for the doll house. She used a piece of fabric to cover the box and make the roof.
+
+Lily finished her doll house and was very proud of it. She decorated it with the clothes she had borrowed from her mom. She put her dolls inside the doll house and played with them all day. She felt happy that she had made the doll house by herself.
+
+The End.
+
+The end of the story is when Lily finishes her doll house. She's very proud of what she has done and feels happy that she can now play with her dolls in her own special place. The end of the story also shows how important it is to"
